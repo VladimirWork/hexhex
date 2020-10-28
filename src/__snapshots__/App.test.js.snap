@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders app 1`] = `
+exports[`renders app and matches snapshot matches snapshot 1`] = `
 <div
   className="App"
 >
@@ -1129,6 +1129,118 @@ exports[`renders app 1`] = `
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
         transform="translate(57.875, -20.453366630131697)"
+      >
+        <g
+          className="hexagon"
+        >
+          <polygon
+            fill={null}
+            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+          />
+        </g>
+      </g>
+    </g>
+    <g>
+      <g
+        className="hexagon-group"
+        draggable="true"
+        onClick={[Function]}
+        onDragEnd={[Function]}
+        onDragOver={[Function]}
+        onDragStart={[Function]}
+        onDrop={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        transform="translate(-90, -30)"
+      >
+        <g
+          className="hexagon"
+        >
+          <polygon
+            fill={null}
+            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+          />
+        </g>
+      </g>
+      <g
+        className="hexagon-group"
+        draggable="true"
+        onClick={[Function]}
+        onDragEnd={[Function]}
+        onDragOver={[Function]}
+        onDragStart={[Function]}
+        onDrop={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        transform="translate(-90, -20.906733260263394)"
+      >
+        <g
+          className="hexagon"
+        >
+          <polygon
+            fill={null}
+            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+          />
+        </g>
+      </g>
+      <g
+        className="hexagon-group"
+        draggable="true"
+        onClick={[Function]}
+        onDragEnd={[Function]}
+        onDragOver={[Function]}
+        onDragStart={[Function]}
+        onDrop={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        transform="translate(-90, -11.813466520526788)"
+      >
+        <g
+          className="hexagon"
+        >
+          <polygon
+            fill={null}
+            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+          />
+        </g>
+      </g>
+      <g
+        className="hexagon-group"
+        draggable="true"
+        onClick={[Function]}
+        onDragEnd={[Function]}
+        onDragOver={[Function]}
+        onDragStart={[Function]}
+        onDrop={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        transform="translate(-90, -2.720199780790182)"
+      >
+        <g
+          className="hexagon"
+        >
+          <polygon
+            fill={null}
+            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+          />
+        </g>
+      </g>
+      <g
+        className="hexagon-group"
+        draggable="true"
+        onClick={[Function]}
+        onDragEnd={[Function]}
+        onDragOver={[Function]}
+        onDragStart={[Function]}
+        onDrop={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        transform="translate(-90, 6.373066958946424)"
       >
         <g
           className="hexagon"
