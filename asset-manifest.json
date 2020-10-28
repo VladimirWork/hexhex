@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hexhex/static/css/main.cd6bed64.chunk.css",
-    "main.js": "/hexhex/static/js/main.1200dea0.chunk.js",
-    "main.js.map": "/hexhex/static/js/main.1200dea0.chunk.js.map",
+    "main.css": "/hexhex/static/css/main.e20e58ab.chunk.css",
+    "main.js": "/hexhex/static/js/main.f04d9cc6.chunk.js",
+    "main.js.map": "/hexhex/static/js/main.f04d9cc6.chunk.js.map",
     "runtime-main.js": "/hexhex/static/js/runtime-main.d3683e6d.js",
     "runtime-main.js.map": "/hexhex/static/js/runtime-main.d3683e6d.js.map",
     "static/js/2.46a4940b.chunk.js": "/hexhex/static/js/2.46a4940b.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.95f723a5.chunk.js": "/hexhex/static/js/3.95f723a5.chunk.js",
     "static/js/3.95f723a5.chunk.js.map": "/hexhex/static/js/3.95f723a5.chunk.js.map",
     "index.html": "/hexhex/index.html",
-    "static/css/main.cd6bed64.chunk.css.map": "/hexhex/static/css/main.cd6bed64.chunk.css.map",
+    "static/css/main.e20e58ab.chunk.css.map": "/hexhex/static/css/main.e20e58ab.chunk.css.map",
     "static/js/2.46a4940b.chunk.js.LICENSE.txt": "/hexhex/static/js/2.46a4940b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d3683e6d.js",
     "static/js/2.46a4940b.chunk.js",
-    "static/css/main.cd6bed64.chunk.css",
-    "static/js/main.1200dea0.chunk.js"
+    "static/css/main.e20e58ab.chunk.css",
+    "static/js/main.f04d9cc6.chunk.js"
   ]
 }
