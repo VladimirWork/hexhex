@@ -5,3 +5,8 @@ svg g {
 svg g:hover {
   fill-opacity: 1;
 }
+svg g polygon {
+  stroke: #7be3f6;
+  stroke-width: 0.3;
+  transition: fill-opacity .5s;
+}
