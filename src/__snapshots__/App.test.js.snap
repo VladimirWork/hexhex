@@ -12,7 +12,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
     width={1900}
     xmlns="http://www.w3.org/2000/svg"
   >
-    <g>
+    <g
+      className="tiles"
+    >
       <g
         className="hexagon-group"
         draggable="true"
@@ -24,14 +26,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-23.625, -13.639900109604909)"
+        transform="translate(11.80827969310625, 0)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -46,14 +48,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-23.625, -4.546633369868305)"
+        transform="translate(18.173566410921875, 11.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -68,14 +70,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-23.625, 4.546633369868301)"
+        transform="translate(24.5388531287375, 22.05)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -90,14 +92,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-23.625, 13.639900109604909)"
+        transform="translate(30.904139846553125, 33.075)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -112,14 +114,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-15.75, -18.186533479473212)"
+        transform="translate(18.17356641092188, -11.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -134,14 +136,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-15.75, -9.093266739736606)"
+        transform="translate(24.538853128737504, 0)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -156,14 +158,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-15.75, 0)"
+        transform="translate(30.904139846553125, 11.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -178,14 +180,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-15.75, 9.093266739736606)"
+        transform="translate(37.26942656436875, 22.05)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -200,14 +202,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-15.75, 18.186533479473216)"
+        transform="translate(43.63471328218438, 33.075)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -222,14 +224,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-7.875, -22.73316684934151)"
+        transform="translate(24.538853128737504, -22.05)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -244,14 +246,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-7.875, -13.639900109604909)"
+        transform="translate(30.904139846553125, -11.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -266,14 +268,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-7.875, -4.546633369868303)"
+        transform="translate(37.26942656436875, 0)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -288,14 +290,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-7.875, 4.546633369868303)"
+        transform="translate(43.63471328218438, 11.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -310,14 +312,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-7.875, 13.639900109604909)"
+        transform="translate(50, 22.05)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -332,14 +334,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-7.875, 22.73316684934152)"
+        transform="translate(56.36528671781562, 33.075)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -354,14 +356,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(0, -27.279800219209818)"
+        transform="translate(30.904139846553125, -33.075)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -376,14 +378,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(0, -18.186533479473212)"
+        transform="translate(37.26942656436875, -22.05)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -398,14 +400,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(0, -9.093266739736606)"
+        transform="translate(43.63471328218438, -11.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -420,14 +422,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(0, 0)"
+        transform="translate(50, 0)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -442,14 +444,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(0, 9.093266739736606)"
+        transform="translate(56.36528671781562, 11.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -464,14 +466,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(0, 18.186533479473212)"
+        transform="translate(62.73057343563125, 22.05)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -486,14 +488,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(0, 27.279800219209818)"
+        transform="translate(69.09586015344688, 33.075)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -508,14 +510,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(7.875, -22.73316684934152)"
+        transform="translate(43.63471328218438, -33.075)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -530,14 +532,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(7.875, -13.639900109604909)"
+        transform="translate(50, -22.05)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -552,14 +554,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(7.875, -4.546633369868303)"
+        transform="translate(56.36528671781562, -11.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -574,14 +576,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(7.875, 4.546633369868303)"
+        transform="translate(62.73057343563125, 0)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -596,14 +598,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(7.875, 13.639900109604909)"
+        transform="translate(69.09586015344688, 11.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -618,14 +620,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(7.875, 22.73316684934151)"
+        transform="translate(75.4611468712625, 22.05)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -640,14 +642,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(15.75, -18.186533479473216)"
+        transform="translate(56.36528671781562, -33.075)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -662,14 +664,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(15.75, -9.093266739736606)"
+        transform="translate(62.73057343563125, -22.05)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -684,14 +686,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(15.75, 0)"
+        transform="translate(69.09586015344688, -11.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -706,14 +708,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(15.75, 9.093266739736606)"
+        transform="translate(75.4611468712625, 0)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -728,14 +730,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(15.75, 18.186533479473212)"
+        transform="translate(81.82643358907812, 11.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -750,14 +752,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(23.625, -13.639900109604909)"
+        transform="translate(69.09586015344688, -33.075)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -772,14 +774,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(23.625, -4.546633369868301)"
+        transform="translate(75.4611468712625, -22.05)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -794,14 +796,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(23.625, 4.546633369868305)"
+        transform="translate(81.82643358907812, -11.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -816,19 +818,21 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(23.625, 13.639900109604909)"
+        transform="translate(88.19172030689376, 0)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
     </g>
-    <g>
+    <g
+      className="teams"
+    >
       <g
         className="hexagon-group"
         draggable="true"
@@ -840,14 +844,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-57.875, 20.453366630131697)"
+        transform="translate(-62.73057343563125, -25)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -862,14 +866,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-57.875, 29.546633369868303)"
+        transform="translate(-56.36528671781562, -13.975)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -884,14 +888,172 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-50, 15.906733260263394)"
+        transform="translate(-56.36528671781562, -36.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
+          />
+        </g>
+      </g>
+      <g
+        className="hexagon-group"
+        draggable="true"
+        onClick={[Function]}
+        onDragEnd={[Function]}
+        onDragOver={[Function]}
+        onDragStart={[Function]}
+        onDrop={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        transform="translate(-50, -25)"
+      >
+        <g
+          className="hexagon"
+        >
+          <polygon
+            fill={null}
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
+          />
+        </g>
+      </g>
+      <g
+        className="hexagon-group"
+        draggable="true"
+        onClick={[Function]}
+        onDragEnd={[Function]}
+        onDragOver={[Function]}
+        onDragStart={[Function]}
+        onDrop={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        transform="translate(-43.63471328218438, -13.975)"
+      >
+        <g
+          className="hexagon"
+        >
+          <polygon
+            fill={null}
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
+          />
+        </g>
+      </g>
+      <g
+        className="hexagon-group"
+        draggable="true"
+        onClick={[Function]}
+        onDragEnd={[Function]}
+        onDragOver={[Function]}
+        onDragStart={[Function]}
+        onDrop={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        transform="translate(-43.63471328218438, -36.025)"
+      >
+        <g
+          className="hexagon"
+        >
+          <polygon
+            fill={null}
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
+          />
+        </g>
+      </g>
+      <g
+        className="hexagon-group"
+        draggable="true"
+        onClick={[Function]}
+        onDragEnd={[Function]}
+        onDragOver={[Function]}
+        onDragStart={[Function]}
+        onDrop={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        transform="translate(-37.26942656436875, -25)"
+      >
+        <g
+          className="hexagon"
+        >
+          <polygon
+            fill={null}
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
+          />
+        </g>
+      </g>
+    </g>
+    <g
+      className="teams"
+    >
+      <g
+        className="hexagon-group"
+        draggable="true"
+        onClick={[Function]}
+        onDragEnd={[Function]}
+        onDragOver={[Function]}
+        onDragStart={[Function]}
+        onDrop={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        transform="translate(-62.73057343563125, 25)"
+      >
+        <g
+          className="hexagon"
+        >
+          <polygon
+            fill={null}
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
+          />
+        </g>
+      </g>
+      <g
+        className="hexagon-group"
+        draggable="true"
+        onClick={[Function]}
+        onDragEnd={[Function]}
+        onDragOver={[Function]}
+        onDragStart={[Function]}
+        onDrop={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        transform="translate(-56.36528671781562, 36.025)"
+      >
+        <g
+          className="hexagon"
+        >
+          <polygon
+            fill={null}
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
+          />
+        </g>
+      </g>
+      <g
+        className="hexagon-group"
+        draggable="true"
+        onClick={[Function]}
+        onDragEnd={[Function]}
+        onDragOver={[Function]}
+        onDragStart={[Function]}
+        onDrop={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        transform="translate(-56.36528671781562, 13.975)"
+      >
+        <g
+          className="hexagon"
+        >
+          <polygon
+            fill={null}
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -913,7 +1075,7 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -928,14 +1090,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-50, 34.093266739736606)"
+        transform="translate(-43.63471328218438, 36.025)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -950,14 +1112,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-42.125, 20.453366630131697)"
+        transform="translate(-43.63471328218438, 13.975)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
@@ -972,282 +1134,14 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(-42.125, 29.546633369868303)"
+        transform="translate(-37.26942656436875, 25)"
       >
         <g
           className="hexagon"
         >
           <polygon
             fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
-          />
-        </g>
-      </g>
-    </g>
-    <g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(42.125, -29.546633369868303)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
-          />
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(42.125, -20.453366630131697)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
-          />
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(50, -34.093266739736606)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
-          />
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(50, -25)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
-          />
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(50, -15.906733260263394)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
-          />
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(57.875, -29.546633369868303)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
-          />
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(57.875, -20.453366630131697)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
-          />
-        </g>
-      </g>
-    </g>
-    <g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(-90, -30)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
-          />
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(-90, -20.906733260263394)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
-          />
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(-90, -11.813466520526788)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
-          />
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(-90, -2.720199780790182)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
-          />
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(-90, 6.373066958946424)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill={null}
-            points="5,0 2.5000000000000004,4.330127018922193 -2.499999999999999,4.330127018922194 -5,6.123233995736766e-16 -2.500000000000002,-4.330127018922193 2.5000000000000004,-4.330127018922193"
+            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
         </g>
       </g>
