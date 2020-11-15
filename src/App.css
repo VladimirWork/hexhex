@@ -1,22 +1,33 @@
-svg g {
-  fill: #7be3f6;
-  fill-opacity: 0.5;
+body {
+  margin: 0;
+  padding: 0em 1em;
+  font-family: sans-serif;
+  background: #133b43;
+  color: white;
+  text-align: center;
 }
 
-svg g:hover {
-  fill-opacity: 1;
+p {
+  max-width: 80%;
+  margin: 10px auto;
 }
 
-svg g polygon {
-  stroke: #7be3f6;
-  stroke-width: 0.25;
-  transition: fill-opacity .5s;
+[draggable] {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  -moz-user-drag: element;
+  -webkit-user-drag: element;
+  -khtml-user-drag: element;
+  user-drag: element;
 }
 
 .teams {
   position: absolute;
   top: 0;
   left: 1em;
+  border-right: 1px solid grey;
   width: 49%;
 }
 
