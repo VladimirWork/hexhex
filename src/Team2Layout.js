@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { GridGenerator, Layout, Hexagon, Text, Pattern, HexUtils } from 'react-hexgrid'
+import { v4 as uuidv4 } from 'uuid'
 import './Team2Layout.css'
 
 class Team2Layout extends Component {
@@ -39,6 +40,7 @@ class Team2Layout extends Component {
       // When hexagon is dropped on this hexagon, copy it's image and text
       if (HexUtils.equals(source.state.hex, hex)) {
         hex.image = targetProps.data.image
+        hex.uuid = targetProps.data.uuid
         // hex.text = targetProps.data.text
       }
       return hex
@@ -75,14 +77,16 @@ class Team2Layout extends Component {
                     q={hex.q}
                     r={hex.r}
                     s={hex.s}
-                    fill={(hex.image) ? HexUtils.getID(hex) : null}
+                    // fill={(hex.image) ? HexUtils.getID(hex) : null}
+                    fill={(hex.image) ? hex.uuid : null}
                     data={hex}
                     onDragStart={(e, h) => this.onDragStart(e, h)}
                     onDragEnd={(e, h, s) => this.onDragEnd(e, h, s)}
                     onDrop={(e, h, t) => this.onDrop(e, h, t) }
                     onDragOver={(e, h) => this.onDragOver(e, h) }
                 >
-                    { !!hex.image && <Pattern id={HexUtils.getID(hex)} link={hex.image} size={patternSize} /> }
+                    {/* { !!hex.image && <Pattern id={HexUtils.getID(hex)} link={hex.image} size={patternSize} /> } */}
+                    { !!hex.image && <Pattern id={hex.uuid} link={hex.image} size={patternSize} /> }
                 </Hexagon>
             ))
             }
