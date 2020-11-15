@@ -1,8 +1,7 @@
 import React, { Component } from 'react'
 import { GridGenerator, Layout, Hexagon, Text, Pattern, HexUtils } from 'react-hexgrid'
 import './GeneralLayout.css'
-import logo from './images/logo192.png'
-import swords from './images/BTN_action047.png'
+import precision from './images/8000.png'
 
 class GeneralLayout extends Component {
   constructor(props) {
@@ -11,7 +10,7 @@ class GeneralLayout extends Component {
     const hexagons = GridGenerator.hexagon(3).map((hexagon, index) => {
       return Object.assign({}, hexagon, {
         // text: index,
-        image: swords
+        image: precision
       })
     })
     this.state = { hexagons }
