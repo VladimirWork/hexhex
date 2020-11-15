@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hexhex/static/css/main.6f545fa3.chunk.css",
-    "main.js": "/hexhex/static/js/main.b55ea79b.chunk.js",
-    "main.js.map": "/hexhex/static/js/main.b55ea79b.chunk.js.map",
+    "main.js": "/hexhex/static/js/main.f8cd49bb.chunk.js",
+    "main.js.map": "/hexhex/static/js/main.f8cd49bb.chunk.js.map",
     "runtime-main.js": "/hexhex/static/js/runtime-main.2d02dc0d.js",
     "runtime-main.js.map": "/hexhex/static/js/runtime-main.2d02dc0d.js.map",
     "static/js/2.6231cd4e.chunk.js": "/hexhex/static/js/2.6231cd4e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2d02dc0d.js",
     "static/js/2.6231cd4e.chunk.js",
     "static/css/main.6f545fa3.chunk.css",
-    "static/js/main.b55ea79b.chunk.js"
+    "static/js/main.f8cd49bb.chunk.js"
   ]
 }
