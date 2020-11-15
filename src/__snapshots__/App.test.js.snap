@@ -26,219 +26,19 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
         onMouseEnter={[Function]}
         onMouseLeave={[Function]}
         onMouseOver={[Function]}
-        transform="translate(11.80827969310625, 0)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#-3,0,3)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="-3,0,3"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(18.173566410921875, 11.025)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#-3,1,2)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="-3,1,2"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(24.5388531287375, 22.05)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#-3,2,1)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="-3,2,1"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(30.904139846553125, 33.075)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#-3,3,0)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="-3,3,0"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(18.17356641092188, -11.025)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#-2,-1,3)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="-2,-1,3"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
         transform="translate(24.538853128737504, 0)"
       >
         <g
           className="hexagon"
         >
           <polygon
-            fill="url(#-2,0,2)"
+            fill="url(#8ac82b9b-cf9d-42fd-9f6f-da4edd599a5f)"
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
           <defs>
             <pattern
               height={6}
-              id="-2,0,2"
+              id="8ac82b9b-cf9d-42fd-9f6f-da4edd599a5f"
               patternUnits="objectBoundingBox"
               width={6}
               x={0}
@@ -248,7 +48,7 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
                 height={12}
                 width={12}
                 x={0}
-                xlinkHref="BTN_action047.png"
+                xlinkHref="8000.png"
                 y={0}
               />
             </pattern>
@@ -272,13 +72,13 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#-2,1,1)"
+            fill="url(#826f6366-7802-4077-9ad3-0ccc73bb3cec)"
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
           <defs>
             <pattern
               height={6}
-              id="-2,1,1"
+              id="826f6366-7802-4077-9ad3-0ccc73bb3cec"
               patternUnits="objectBoundingBox"
               width={6}
               x={0}
@@ -288,7 +88,7 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
                 height={12}
                 width={12}
                 x={0}
-                xlinkHref="BTN_action047.png"
+                xlinkHref="8100.png"
                 y={0}
               />
             </pattern>
@@ -312,13 +112,13 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#-2,2,0)"
+            fill="url(#28222411-8ced-427c-b83c-7fc9ff95025d)"
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
           <defs>
             <pattern
               height={6}
-              id="-2,2,0"
+              id="28222411-8ced-427c-b83c-7fc9ff95025d"
               patternUnits="objectBoundingBox"
               width={6}
               x={0}
@@ -328,87 +128,7 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
                 height={12}
                 width={12}
                 x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(43.63471328218438, 33.075)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#-2,3,-1)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="-2,3,-1"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(24.538853128737504, -22.05)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#-1,-2,3)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="-1,-2,3"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
+                xlinkHref="8200.png"
                 y={0}
               />
             </pattern>
@@ -432,13 +152,13 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#-1,-1,2)"
+            fill="url(#ebe530f0-172c-432e-a5a1-31d8bb829fff)"
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
           <defs>
             <pattern
               height={6}
-              id="-1,-1,2"
+              id="ebe530f0-172c-432e-a5a1-31d8bb829fff"
               patternUnits="objectBoundingBox"
               width={6}
               x={0}
@@ -448,7 +168,7 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
                 height={12}
                 width={12}
                 x={0}
-                xlinkHref="BTN_action047.png"
+                xlinkHref="8300.png"
                 y={0}
               />
             </pattern>
@@ -472,13 +192,13 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#-1,0,1)"
+            fill="url(#b0bc6c05-7355-40f1-92ee-205cfc705e21)"
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
           <defs>
             <pattern
               height={6}
-              id="-1,0,1"
+              id="b0bc6c05-7355-40f1-92ee-205cfc705e21"
               patternUnits="objectBoundingBox"
               width={6}
               x={0}
@@ -488,7 +208,7 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
                 height={12}
                 width={12}
                 x={0}
-                xlinkHref="BTN_action047.png"
+                xlinkHref="8400.png"
                 y={0}
               />
             </pattern>
@@ -512,27 +232,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#-1,1,0)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="-1,1,0"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
       <g
@@ -552,107 +254,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#-1,2,-1)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="-1,2,-1"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(56.36528671781562, 33.075)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#-1,3,-2)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="-1,3,-2"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(30.904139846553125, -33.075)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#0,-3,3)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="0,-3,3"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
       <g
@@ -672,27 +276,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#0,-2,2)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="0,-2,2"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
       <g
@@ -712,27 +298,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#0,-1,1)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="0,-1,1"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
       <g
@@ -752,27 +320,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#0,0,0)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="0,0,0"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
       <g
@@ -792,27 +342,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#0,1,-1)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="0,1,-1"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
       <g
@@ -832,107 +364,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#0,2,-2)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="0,2,-2"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(69.09586015344688, 33.075)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#0,3,-3)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="0,3,-3"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(43.63471328218438, -33.075)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#1,-3,2)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="1,-3,2"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
       <g
@@ -952,27 +386,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#1,-2,1)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="1,-2,1"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
       <g
@@ -992,27 +408,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#1,-1,0)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="1,-1,0"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
       <g
@@ -1032,27 +430,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#1,0,-1)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="1,0,-1"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
       <g
@@ -1072,107 +452,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#1,1,-2)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="1,1,-2"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(75.4611468712625, 22.05)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#1,2,-3)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="1,2,-3"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(56.36528671781562, -33.075)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#2,-3,1)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="2,-3,1"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
       <g
@@ -1192,27 +474,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#2,-2,0)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="2,-2,0"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
       <g
@@ -1232,27 +496,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#2,-1,-1)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="2,-1,-1"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
       <g
@@ -1272,227 +518,9 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#2,0,-2)"
+            fill={null}
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
-          <defs>
-            <pattern
-              height={6}
-              id="2,0,-2"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(81.82643358907812, 11.025)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#2,1,-3)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="2,1,-3"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(69.09586015344688, -33.075)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#3,-3,0)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="3,-3,0"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(75.4611468712625, -22.05)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#3,-2,-1)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="3,-2,-1"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(81.82643358907812, -11.025)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#3,-1,-2)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="3,-1,-2"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
-        </g>
-      </g>
-      <g
-        className="hexagon-group"
-        draggable="true"
-        onClick={[Function]}
-        onDragEnd={[Function]}
-        onDragOver={[Function]}
-        onDragStart={[Function]}
-        onDrop={[Function]}
-        onMouseEnter={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        transform="translate(88.19172030689376, 0)"
-      >
-        <g
-          className="hexagon"
-        >
-          <polygon
-            fill="url(#3,0,-3)"
-            points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
-          />
-          <defs>
-            <pattern
-              height={6}
-              id="3,0,-3"
-              patternUnits="objectBoundingBox"
-              width={6}
-              x={0}
-              y={0}
-            >
-              <image
-                height={12}
-                width={12}
-                x={0}
-                xlinkHref="BTN_action047.png"
-                y={0}
-              />
-            </pattern>
-          </defs>
         </g>
       </g>
     </g>
