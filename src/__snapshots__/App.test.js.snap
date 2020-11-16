@@ -32,13 +32,13 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#8ac82b9b-cf9d-42fd-9f6f-da4edd599a5f)"
+            fill="url(#9553a778-5780-4fb6-ab39-53177ccd32e3)"
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
           <defs>
             <pattern
               height={6}
-              id="8ac82b9b-cf9d-42fd-9f6f-da4edd599a5f"
+              id="9553a778-5780-4fb6-ab39-53177ccd32e3"
               patternUnits="objectBoundingBox"
               width={6}
               x={0}
@@ -72,13 +72,13 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#826f6366-7802-4077-9ad3-0ccc73bb3cec)"
+            fill="url(#c7e9aa4a-9914-4b58-b54b-da3e127d17c3)"
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
           <defs>
             <pattern
               height={6}
-              id="826f6366-7802-4077-9ad3-0ccc73bb3cec"
+              id="c7e9aa4a-9914-4b58-b54b-da3e127d17c3"
               patternUnits="objectBoundingBox"
               width={6}
               x={0}
@@ -112,13 +112,13 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#28222411-8ced-427c-b83c-7fc9ff95025d)"
+            fill="url(#d91b7048-7330-4390-9fb2-f805713d4e0f)"
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
           <defs>
             <pattern
               height={6}
-              id="28222411-8ced-427c-b83c-7fc9ff95025d"
+              id="d91b7048-7330-4390-9fb2-f805713d4e0f"
               patternUnits="objectBoundingBox"
               width={6}
               x={0}
@@ -152,13 +152,13 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#ebe530f0-172c-432e-a5a1-31d8bb829fff)"
+            fill="url(#bfaadbec-0664-4991-8dda-b0572ab4ad1d)"
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
           <defs>
             <pattern
               height={6}
-              id="ebe530f0-172c-432e-a5a1-31d8bb829fff"
+              id="bfaadbec-0664-4991-8dda-b0572ab4ad1d"
               patternUnits="objectBoundingBox"
               width={6}
               x={0}
@@ -192,13 +192,13 @@ exports[`renders app and matches snapshot matches snapshot 1`] = `
           className="hexagon"
         >
           <polygon
-            fill="url(#b0bc6c05-7355-40f1-92ee-205cfc705e21)"
+            fill="url(#f095d108-de67-4e51-9e6b-059dcb04ea36)"
             points="6.062177826491071,3.4999999999999996 4.286263797015736e-16,7 -6.062177826491071,3.4999999999999996 -6.062177826491071,-3.4999999999999982 -1.2858791391047208e-15,-7 6.062177826491069,-3.500000000000003"
           />
           <defs>
             <pattern
               height={6}
-              id="b0bc6c05-7355-40f1-92ee-205cfc705e21"
+              id="f095d108-de67-4e51-9e6b-059dcb04ea36"
               patternUnits="objectBoundingBox"
               width={6}
               x={0}
