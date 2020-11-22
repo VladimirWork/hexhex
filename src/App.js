@@ -1,6 +1,7 @@
 import './App.css'
 import React, { Component } from 'react'
 import { GridGenerator, HexGrid, Layout, Path, Hexagon, Text, Pattern, Hex } from 'react-hexgrid'
+// import ReactTooltip from 'react-tooltip'
 import GeneralLayout from './GeneralLayout'
 import Team1Layout from './Team1Layout'
 import Team2Layout from './Team2Layout'

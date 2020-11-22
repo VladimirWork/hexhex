@@ -1,12 +1,13 @@
 import React, { Component } from 'react'
-import { GridGenerator, Layout, Hexagon, Text, Pattern, HexUtils } from 'react-hexgrid'
+import { GridGenerator, Layout, Hexagon, Hex, Text, Pattern, HexUtils } from 'react-hexgrid'
 import { v4 as uuidv4 } from 'uuid'
 import './Team1Layout.css'
 
 class Team1Layout extends Component {
   constructor(props) {
     super(props)
-    const hexagons = GridGenerator.hexagon(1)
+    // const hexagons = GridGenerator.hexagon(1)
+    const hexagons = GridGenerator.ring(new Hex(0, 0, 0), 1)
     this.state = { hexagons }
   }
 
